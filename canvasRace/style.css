@@ -1,0 +1,20 @@
+body {
+    background-color: darkgray;
+}
+
+.app {
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+#canvasRace {
+    background: #0F991C;
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+}
